@@ -2,7 +2,6 @@ Extra info
 
 Age of brzozowi kingdomerowie w Bulionie (2800 BA - 1547 BA) https://anbennar.fandom.com/wiki/God-kings
 Dżiny https://anbennar.fandom.com/wiki/Genie
-https://anbennar.fandom.com/wiki/Solar_System - planeta odkryta przez dłorfy i prekursorów
 https://drive.google.com/drive/folders/1FtMkibW7obWvP5BUi2vVSoGpeq73IMdS - udotępnione rzeczy
 https://anbennar.fandom.com/wiki/Ancient_Relics - relikty gargulców, dłorfów, dżinów, dradżunów i prekursorów
 https://anbennar.fandom.com/wiki/Serpentspine_Mountains Serpentspine
@@ -10,6 +9,64 @@ https://anbennar.fandom.com/wiki/Aul-Dwarov
 https://anbennar.fandom.com/wiki/Giants#Frost_Giants
 https://anbennar.fandom.com/wiki/Dwarovar_Railway
 https://anbennar.fandom.com/wiki/Dwarf
-https://anbennar.fandom.com/wiki/Rule_of_Giants
-https://anbennar.fandom.com/wiki/Rule_of_Dragons
-https://anbennar.fandom.com/wiki/Cannorian_Creation_Myth
+
+## Khugdihr & Ovdal Asra
+
+Aul-Dwarov and its fall
+"The modern Agate Dwarves of Khugdihr are a mix of the original Moss Agate of Khugdihr and the Pink Agate Dwarves of Ovdal Asra. This union into a single culture had happened after the fall of Ovdal Asra during the Orcish invasion, with many refugees entering Khugdihr. The holds were already sister holds in the times of Aul-Dwarov and shared many of their specialties with each other, allowing the history of both holds to be preserved."
+ I07_the_many_falls_of_khugdihr:0 "The Many Falls of Khugdihr"
+ I07_the_many_falls_of_khugdihr_desc:0 "Khugdihr had fallen many times to enemy forces: whether it be in civil war; to Nimrith the Red; or to the Orcs. The position of Khugdihr made it face the threats of the ever growing hostile surface with Giants and many other creatures seeking to destroy the hold. However, as many times as the hold has fallen, it has stubbornly risen back up, stronger than before against the countless threats on both sides of the gates."
+ I07_the_pen_comes_before_the_axe:0 "The Pen Comes Before the Axe"
+ I07_the_pen_comes_before_the_axe_desc:0 "Maintaining the inventories of adventurers, soldiers, and builders was a large task for the Empire of Aul-Dwarov, as the need for precise numbers was paramount for success. The Agate Dwarves took pride in their role as the main bookkeepers and organisers of the Dwarovar, assuring equipment contracts were always complete, supplies always ended up in the right hands, and the contents of each adventuring backpack were verified.\n\nMany dwarves of other holds would see this as unnecessary, rather relying on their own records, but the Agate Dwarves knew that overconfidence was a slow and insidious killer."
+Early Castanor
+ I07_influencing_the_cannorians:0 "Influencing the Cannorians"
+ I07_influencing_the_cannorians_desc:0 "Castanorian records state that the first major dwarven migration to the fledgling human empire was from the exiled dwarves of Khugdihr, ones aged more than a century who had kept their old faith in the Dwarven Pantheon when the rulers of Khugdihr had banned the practice. They were not the first to Escann however, as some refugees from Ovdal Asra had settled there millennia past.\n\nThe dwarves ended up settling and working in the land of Cannor and with the arrival of the legendary Balgar the Builder, built most of Castonath and later, his many other wonders."
+ I07_home_of_balgar:0 "Home of Balgar the Builder"
+ I07_home_of_balgar_desc:0 "Balgar the Builder was a dwarf that today is famed for being a Great Ancestor for the dwarves, but also a god in the Regent Court for the Cannorians. He hailed from Khugdihr and was renowned for his talent for building from a young age, as he sculpted many statues and monuments.\n\nHe was, however, exiled for his work on statues dedicated to the Dwarven Pantheon, which was outlawed as the state had introduced Ancestor Worship throughout the hold. He ended up entering into Castan the Progenitor's service, where he continued to hone his building skills, constructing his wonders across Cannor and earning his place among the Pantheon of the Regent Court."
+ I07_legacy_of_castan_dwarffriend:0 "Legacy of Castan Dwarf-Friend"
+ I07_legacy_of_castan_dwarffriend_desc:0 "Under the reign of Castan Dwarf-Friend, Castanor had forged alliances with the dwarves of the surface, in turn leading Khugdihr to begin the resettlement of Ânumdihr, later known as Marrhold. Dwarves from as far as Rubyhold and Shazstundihr joined them, along with the many clanless stone dwarves of the surface. They settled in many human towns, with the skilled setting up shops all around to preserve their dwarven ways."
+Greentide
+ I07_the_restored_house_of_fognir_asra:0 "The Restored House of Fognir Asra"
+ I07_the_restored_house_of_fognir_asra_desc:0 "Fognir Asra was the last scion of his house and spent his remaining riches in gathering an adventuring party to expedition deep beyond Khugdihr to his ancestral hold of Ovdal Asra. There he recovered a pink agate, the Gem of Asra, one of the gems of the Dwarovkron, as well as many other riches to bring back to the surface. He however did not reclaim the Gem of Asra alone.\n\nHe did so with the help of the legendary adventurers Jaerel the Mistwalker, Mintbrick Puddlebonk, and Gerin Orcrend. Sadly, with conflict in the hold against the orc Dugorik Dragonbreaker and his early Greentide host, the hold collapsed further as the party awoke old golems to defeat the orcs. That heroic deed brought Fognir and his line into legend, and delayed Khugdihr's eventual defeat to a decade later."
+
+## Haraz Orldhûm
+
+I08_ideas:0 "Platinum Ideas"
+ I08_ideas_start:0 "Platinum Traditions"
+ I08_ideas_bonus:0 "Platinum Ambition"
+Aul-Dwarov
+ I08_reign_of_the_highlord:0 "Reign of the Highlord"
+ I08_reign_of_the_highlord_desc:0 "The Highlord of Haraz Orldhûm was regarded by many as the first among equals of the kings of the Dwarovar. It is said that their eminence, grace and power often rivalled that of the High King itself - it is no surprise indeed, that the High Kings of Aul-Dwarov often came from the clans of Haraz Orldhûm."
+ I08_platinum_jewellers:0 "Platinum Jewellers"
+ I08_platinum_jewellers_desc:0 "The Platinum dwarves gained their namesake for popularising the arts of platinum jewellery across the Dwarovar. It is said that platinum surpasses the ancient metals of gold and silver due to its strength and resistance to tarnish and blemishes. Indeed, many of the recovered relics of good condition were platinum - even the Dwarovkron itself had platinum surfacing."
+ I08_turrets_of_orldhum:0 "Turrets of Orldhûm"
+ I08_turrets_of_orldhum_desc:0 "The hold of Haraz Orldhûm and its de jure demesne is surrounded by natural caves and caverns, which to a normal hold would be a thing of danger and caution. To Orldhûm it is but another layer of defence, with many caverns having small outposts and 'towers' carved into the stone itself. Records from the Battle of Haraza Depths even state that a besieging orcish horde had set up camp in one of the realm's many caverns, and were promptly bombarded to smithereens in a killing field of Platinum design."
+ I08_ghurns_the_ranger_guide_on_cavern_warfare:0 "Ghurn's Guide on Cavern Warfare"
+ I08_platinum_warsuits:0 "Platinum Warsuits"
+ I08_platinum_warsuits_desc:0 "Said to be the progenitor of modern dwarven exoskeletons, the most noble warriors of Haraz Orldhûm donned powerful armour that gave them the strengths of the mountain and protected them from deadly blows that cleaved through any other armour. These secrets were highly coveted even amongst the platinum dwarves, and only a few were made and donned to prevent their rivals from acquiring such technology."
+
+## Amldihr
+
+ I01_ideas:0 "Kronium Ideas"
+ I01_ideas_start:0 "Kronium Traditions"
+ I01_ideas_bonus:0 "Kronium Ambition"
+
+ I01_birthplace_of_the_old_empire:0 "Birthplace of the Old Empire"
+ I01_birthplace_of_the_old_empire_desc:0 "Amldihr was where Udrek the Consolidator managed to confederate the existing holds and form an assembly to prevent the wars between dwarves and to let them grow together as one. With the Amlharaz formed, the dwarves of every hold were able to gather together to improve all of the Dwarovar. While many resisted the grasp Amldihr had upon the Empire, they introduced new legal reforms and fought politically to bring favour to their own holds instead of warring upon a unified empire."
+ I01_serpents_vale_terraced_farming:0 "Serpent's Vale Terraced Farming"
+ I01_serpents_vale_terraced_farming_desc:0 "It is said that much of Amldihr's strength was drawn not from its diplomacy but from its role as the granary of the Dwarovar. All along the Serpent's Vale are carved terraced farms capable of growing and sustaining all manners of foods - which in the past helped grow an empire. Although the holds were able to sustain themselves, the food from the Serpent’s Vale is what allowed them to grow and prosper."
+ I01_paper_clans:0 "Paper Clans"
+ I01_paper_clans_desc:0 "The Paper clans were often a shunned type of Old Clan, lacking artisan talent and strong warriors prevalent in other holds, the paper clans still rose to prominence in their roles as pencil-pushers, administrators and bureaucrats that helped Aul-Dwarov function efficiently."
+ I01_amldavhad_guard:0 "Amldavhad Guard"
+ I01_amldavhad_guard_desc:0 "The Amldavhad, also known as the Shields of the Assembly, were an elite guard consisting of the 'kazalûg' which meant 'clanless ones'. This ensured that the guards responsible for the defence of the assembly were not beholden to clan allegiances and were impartial to the assembly's plots and affairs."
+ I01_illustrious_ancestors:0 "Illustrious Ancestors"
+ I01_illustrious_ancestors_desc:0 "The reverence of the ancestors is very prominent within Amldihr with the prevalence of statues of the High Kings and many other prominent ancestors especially in the Hall of Ancestors. With the rulership of such great dwarves from the hold, the expectations for their descendants were very high. The need for young dwarves to prove themselves led them to feverishly pursue their own greatness. Inevitably many would fail due both to the difficulty of their goals and to the implacable commitment required to achieve those goals."
+ I01_rule_with_a_kronium_glove:0 "Rule with a Kronium Glove"
+ I01_rule_with_a_kronium_glove_desc:0 "A common term amongst the dwarven people, meaning to rule with conscience those who follow you, and to punish with the mightiest blows those who would defy you. It comes from a famous quote from Udrek the Consolidator after uniting the dwarven holds, which was passed down to all High Kings of Aul-Dwarov during their grand coronation."
+
+
+## Murri Giantbreaker
+
+Murri was an adventurer and a embodient of saying: *Every dwars is more than their size*.
+Stories about him remain popular amongst the Ancestor Worhip dwarves.  
+*Source: It's AW event. I belive there is more about him*

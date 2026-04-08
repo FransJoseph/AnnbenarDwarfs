@@ -114,7 +114,7 @@ whereas his two heads would be divided between the Serpentshead and the Dragon C
 
 # Prehistory
 
-## The Rule of Dragons
+## Rule of Dragons
 
 From now, dragons ruled Halann. Imprisoning some of the genies. They have also pushed giants to the far north and enslaved elfes.
 Due to this, dwarves were forced to dig deeper and deeper into their mountain homes.  
@@ -128,26 +128,27 @@ As most surviving dragons fled to Aelantir, giants divided Halann amongst themse
 
 ## Rule of Giants
 
-### Murri Giantbreaker
-
-Murri was an adventurer and a embodient of saying: *Every dwars is more than their size*.
-Stories about him remain popular amongst the Ancestor Worhip dwarves.  
-*Source: It's AW event. I belive there is more about him*
-
 At some point in time, a Fire Giant corpose appeared in the place where **Gor Bûrad** hold will be later constructed.  
 *Source: hold mission tree*
 
-### Emergence of first holds
+## Emergence of first holds
 
-#### Hehodovar
+### Hehogrim the Diligent & Hehodovar
 
-In 27 019 BA **Hehodovar** was contructed as a hold. It is the first one ever created.
-It is named after one of the greatest ancestors, **Hehogrim the Diligent** who oversaw its construction. He was a great architect and inventor.
-It was said that his personal patron was Verdrik Azirka, who inspired him to build the hold.
+In 5th Bloomsdawn, before 27th century BA, a Great dwarven Ancestor, **Hehogrim the Diligent** was born.
+He was a great inventor and architect, most importantly, of holds.
+In 27 019 BA **Hehodovar** was contructed as a hold. It is the first one ever created and named in his honour.
+Hehogrim oversaw its construction, it was said that his personal patron was Verdrik Azirka, who inspired him to build the hold.
+He was quite insane dwarf, his aptitude of feasting and drinking was almost equally famous.
+His book *The Thirteen Stages of Enlightenment* and *Hehogrim's Bench* story are good examples of it.
+He was a shining example of how a dwarf can drink and still achieve great things.
+In Hehodovar, every year in his birthday, The Thinker's Party was organised.
+There, dwarfen intelligentsia come te celebrate his legacy and discuss new ideas and drink fine beer.  
+*Source: His AW event, Hehodovar ideas, wiki and Verdrik Azirka DP discovery event*
 
-Most of today Serpentspine holds were constructed in this time peroid.
+Most of today Serpentspine holds were constructed afterwards somewhere in this time peroid, with exception of far east ones.
 
-#### [Gor Bûrad](https://anbennar.fandom.com/wiki/Hold_of_Gor_B%C3%BBrad)
+### [Gor Bûrad](https://anbennar.fandom.com/wiki/Hold_of_Gor_B%C3%BBrad)
 
 *Legend* says that the foundations of the hold was built on the corpse of a Fire Giant.
 That was the explanation for other dwarfs for their short-temperament, suspiciousness of outsiders and quickness to fight.
@@ -157,21 +158,30 @@ and that this is what started their anger and isolationism.
 The Basalt Dwarves had an exception as they traded with Gor Dûrgheled, supplying them with raw obsidian which enhanced their rune magic,
 allowing for friendly relations to form between both holds.
 
-A renowned legend describes the longest Borbordûz - Gor Bûrad tradition ever: three nobles fought for a week straight to decide who would rule the hold.
-The fighters were called Storum the Stern, Adar Moonreacher and Magni the Vindictive. In the end, Magni was the only survivor and took his place as ruler of Gor Bûrad.
-Contemporaries attributed this to his fine equipment, which had been forged by the famous blacksmith Calin-Thror Flameforge.
+*A renowned legend describes the longest Borbordûz - Gor Bûrad tradition ever: three nobles fought for a week straight to decide who would rule the hold. The fighters were called Storum the Stern, Adar Moonreacher and Magni the Vindictive. In the end, Magni was the only survivor and took his place as ruler of Gor Bûrad. Contemporaries attributed this to his fine equipment, which had been forged by the famous blacksmith Calin-Thror Flameforge.*
 
-### Holds history before Aul-Dwarov
+## Holds history before Aul-Dwarov
 
-#### Far East expansion
+### Haraz Orldhûm warfare innovations
 
-When another great ancestor, **Urist the Spelunker** was born, Grozumdihr and Ovdal Kanzad were the easternmost holds.
+With early lords of Haraz Orldhûm struggling against the monsters in the neighbouring caverns, Ghurn,
+one of the first rangers ever recorded, revolutionised firstly Platinum and later all dwarven warfare
+by introducing forward scouts and ambushers to dwarven armies.
+
+### Dwarfen Assembly
+
+Amldihr, literally known as the Gates of the Assembly, was where the first ever council of dwarven kings met to broker peace amongst their holds. This tradition later turned into the Assembly.  
+*and under Aul-Dwarov, the High Assembly, where all the lesser clans and kings of the Dwarovar could petition and discuss notions of rule with the High King.*
+
+### Far East expansion
+
+When Great Ancestor, **Urist the Spelunker** was born, Grozumdihr and Ovdal Kanzad were the easternmost holds.
 Urist have discovered the entryway towards eastern Tree of Stone. Later in his life, he also explored a mountain range now known as Jade Mines.
 No less than five holds were builded in the eastern Serpentspines thanks to maps made by him.
 His drive to explore has always inspired dwarvenkind since.  
 *Source: His event in AW*
 
-#### [Serpent's Vale irrigation and its creators](https://anbennar.fandom.com/wiki/Serpent%27s_Vale)
+### [Serpent's Vale irrigation and its creators](https://anbennar.fandom.com/wiki/Serpent%27s_Vale)
 
 Thyrfen Goldenhands was the ancient queen of Amldihr. She was pious and never married.
 It is said that on her orders, Serpent's Vale was transformed to great farmlands,
@@ -180,7 +190,7 @@ It is said that Margurz took her as his wife, whisking her away in front of her 
 From that point, she is worshiped as a Goddes in the pantheon.  
 *Source: Her rediscovery event*
 
-Another great, but sometimes neglected ancestor is **Quila the Harvester**. After her irrigation works were implemented,
+Another Great Ancestor, but sometimes neglected is **Quila the Harvester**. After her irrigation works were implemented,
 Serpent's Vale farms were able to not only feed Amldihr, but all holds with heaps to spare.
 She heralded in an era of prosperity that Aul-Dwarow was yet to know.
 *Did she lived in Aul-Dwarov or before it?*
@@ -189,8 +199,9 @@ She heralded in an era of prosperity that Aul-Dwarow was yet to know.
 The ancient dwarves used the Serpent's Vale for agriculture. With terrace farming and irrigation from the mountain rivers,
 they made the region very productive despite its soil not being particularly rich. It was wise for the High King to make his home later here,
 for much of the underground population was dependent on grain and vegetables from the Serpent's Vale.   
+*Source: wiki*
 
-#### Werdûn Diamondeye ascention
+### Werdûn Diamondeye ascention
 
 *This may have happened after the formation of Aul-Dwarov*  
 Werdûn Diamondeye was a mortal from ancient Ovdal Lodhum. He was challenged to cut a gemstone that would captivate Gods.
@@ -198,12 +209,12 @@ After long journey to the Tree of Stone he succeded, and when his peers declared
 He have become a God and married with Derzobrazan. He is regarded as a progenitor of gem-swapping between lovers.  
 *Source: His rediscovery event*
 
-#### [Formation of Segbandal](https://anbennar.fandom.com/wiki/Segbandal)
+### [Formation of Segbandal](https://anbennar.fandom.com/wiki/Segbandal)
 
 The Segbandal, meaning *Southern Alliance* is formed consisting of the holds of Seghdihr, Hehodovar, Gor Vazumbrog and Verkal Gulan.
 They still stood close together after joining Aul-Dwarov.
 
-#### [Verkal Kozenad thiefs & Aegis](https://anbennar.fandom.com/wiki/Hold_of_Verkal_Kozenad)
+### [Verkal Kozenad thiefs & Aegis](https://anbennar.fandom.com/wiki/Hold_of_Verkal_Kozenad)
 
 Bozan Kezdori from Verkal Kozenad stole a train full of gold tithe from Verkal Gulan, abandoned it, and nearly crashed the dwarven economy due to hyperinflation.  
 
@@ -213,9 +224,9 @@ he and his men entered the tunnel to find a way into the vault when he noticed t
 Fear overcame him and as he shuffled around, he kicked some dust in the air and let out a sneeze,
 which echoed out in the tunnel which triggered the last support to collapse, burying the thieves under the vault which in reality was just a decoy.
 
-#### [Mellegar the Inventor & science](https://anbennar.fandom.com/wiki/Hold_of_D%C3%BBr-Vazhatun)
+### [Mellegar the Inventor & science](https://anbennar.fandom.com/wiki/Hold_of_D%C3%BBr-Vazhatun)
 
-Mellegar the Inventor was another great ancestor. He born in Orlghelovar and of all of them,
+Mellegar the Inventor was another Great Ancestor. He born in Orlghelovar and of all of them,
 he was most controversial in its time. His greatest work was the Setzunkhûpa.  
 Created by atop the highest peak of the Serpentspine, nearby Dûr-Vazhatun
 from the rune-strengthened glass of Orlghelovar, which was used to observe the celestial wonders of the Astral.  
@@ -227,7 +238,7 @@ Thankfully, over time his outlandish scientific claims were proven and strange d
 while not always usefull, worked flawlesly. He was instituted as a Great Ancestor long after his death.  
 *Source: His event in AW*
 
-#### [Mithradhûm military](https://anbennar.fandom.com/wiki/Hold_of_Mithradh%C3%BBm)
+### [Mithradhûm military](https://anbennar.fandom.com/wiki/Hold_of_Mithradh%C3%BBm)
 
 Mithril commander, Harrûk Shalesmith sold out one of Mithradhûm's patrols to Goblins. With his actions,
 he was thrown into a volcano, and his name was forever barred from being spoken, for *No Mithril Dwarf betrays another*.  
@@ -236,7 +247,7 @@ The Goblinslayer academy is founded by the famous retired Mithradhûm general Th
 of tactics and warfare. After his passing, the academy was still used and state-sponsored,
 which further instilled a military culture to the soldiers of the hold, making them perfect candidates for the Amldavhad Guard as well as mercenaries.
 
-### Aul-Dwarov
+## Aul-Dwarov
 https://anbennar.fandom.com/wiki/Pre-Orcish_Dwarovar
 
 18 109 BA
@@ -247,7 +258,14 @@ Creation of Aul-Dwarov as a defensive aliance among others
 
 *Source: Orlghelovar ideas*
 
-???
+#### War of Bloody Gem
+
+##### Conclusion of war & Gimnon Lawgiver
+
+# WIP
+
+Gimron Lawgiver does not have any exciting stories written about him. Still, he is remembered with great reverence all the same. Gimron led the rewriting of the Foundational Laws of the Dwarovar in the wake of the War of the Bloody Gem, in an effort to mend the deep wounds that civil war had wrought.
+
 https://anbennar.fandom.com/wiki/Hold_of_Krakdh%C3%BBmvror
 Verkal Midjurdr Kralt - the Fortress of the World's End is created to protect Dwarovar from Frost Giats, in the north of the Serpents Vale
 
