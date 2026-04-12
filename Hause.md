@@ -1,61 +1,84 @@
-# Disclaimers
+# Introduction
 
-## Holds Shenetiganns
+## Video introduction
 
-- Krakdhûmvror started only as a project of defensive citadel, later changed to a hold?
-- Gor Ozumbrog was completed only after the fall of Amldihr
-- Ovdal Asra was never repaired after its fall in western collapse
-- Gor Dûrgheled was left after you know what, its location within West Dwarovar was lost to time
-- Ruby Hold existed back then - War of Bloody Gem. Do they belonged to Aul-Dwarov?
-- Silver hold was completed at a late game date (when the project started?)
-- Verkal Ozovar construction started during the Jade Empire, but was completed only afterwards
-- It is debated if Ânumdihr was actual name of a hold or a dwarven nickname that was given after the fall of the Aul-Dwarov.
-- Grônrod was created after the fall of Amldihr, same for Vûrdriz-Ândriz
+This video will showcase the history of Dwarvenkind and Serpentspine mountains in Anbennar setting.  
+If you will find any errors in it, and have a **good source for that**, please point them out in the comments.
+You can get all sources used in the video linked below.
+Anbennar lore, while great and overwhelming, have some problems.
+There are some inconsequences and errors in the lore itself, and sometimes it is lacking and unfinished.
+Due to this, there are some guesses made in this video to acomodate that.
+In lore, 11th Nerament 1444 (start of the EU4 Anbennar date) is associated with 1444 Divergence,
+a theoretised magical event that splits time into multiple timelines.
+Lore after this date is also limited. This video will only showcase events that surely happened,
+or those that have a good evidence and likeness to happen.   
 
-## Other
+## Key lore to understand backstory
 
-- When Dvarven roads and railways were created?
-- Orcsbreatch was named after you know what, before it wasn't connected to the surface
-- Caves may have looked different back then
-- Aul-Dwarov claimed caves - but controll over them waried from place to place - diamond and cobald mines were controlled well, iron mines for ramsteel may also back then
-- Escanni-Dwarovar tunel was purpously collapsed during the war with Precursors
-- There is an inconsistiency with the date of fall of Ovdal Asra - details in dedicated section
-- Dûr-Vazhatun have had surface colonies
+Dwarves are a short and sturdy race known for their great beards, stubbornness and skill in smithing.
+The race originates from the underground holds beneath the Serpentspine Mountains,
+but have since made a home in the surface across the world, due to the fall of their civilization
+which started long before humanity built their first cities.
 
-# [Cannorian creation myth](https://anbennar.fandom.com/wiki/Cannorian_Creation_Myth)
+**Dwarven Pantheon** is the ancient dwarven religion. Its a belief in the deities of the pantheon as well as the Primordials.
+Details of it was lost after the fall of dwarven civilization and worship deceased in the Serpentspines.
+After the reclamation, worship of forgotten dieties was reinstated.
+One such primodial in it was Halanna, now likely deceased.
+She is is said to be the mother of Halann and creator of the dwarves.
+She is also a part of Cannorian Pantheon, worshipped by most humans.
 
-Acording to Cannorian creation myth, Halann was created by the **Clarionate**, the trio divine siblings: **Castellos**, **Agrados** and **Yshtralania** and two Primodials **Uelos** and **Halanna**
-that emerged victorious in the Primodial War. In this war trio of siblings, being the last of their kind after even more ancient conflict,
-were called by Hallana to contain her elemental siblings battling for the world. Many creatures, former soldiers of the primordials,
-were granted mercy in exchange of aiding the Clarionate in creating and cultivating new world.
-The most notable and powerful of them all were the **giants** and **genies**.
+Hovever, after the fall of ancient dwarven civilisation, many dwarves have abandoned belive in Gods.
+Instead, they begun worshiping their ancestors, while still beliving in Halanna.
+This became known as **Ancestor Worship**.  
 
-Grobilzak the Twisted is a creature that Dwarven Pantheon states is the remnant of long passed age when the Void invided Creation. 
+Cannorian Pantheon is a collection of deities worshipped by humans.
+As a main religion in the setting, it is likely to be the true faith,
+with supernatural events that prove at least some of it.
 
-## First Dwarves and their Pantheon
+Calendar, day of ashen skies, precursor empire bla bla bla.
 
-Other races were created by Gods to help them with the creation of the world. These include **dwarves**, **avariels**, the precursors of **elfs** and **dragons**.
-Acording to Dwarven Pantheon religion, when primodials started creating their races, Grobilzak created goblinoids.
+From that point, this video will be in character whenever possible.
 
-Dwarven Pantheon states that there were a few eras before history, with order unknown:
+# Creation of Halann and its races
+
+## Dwarfen Pantheon Myths
+
+The followers of the Dwarven Pantheon believe in the Dwarven Creation Myths that state the Primordials
+began the existence of the world they currently live in.  
+
+The Primordials are the believed elemental foundations of the world, composed of four elemental beings.
+Halanna is the main primordial worshipped by the followers of the Dwarven Pantheon,
+she is described as the Earth Mother, Maker of Dwarves, Shaper of Stone.
+
+Worth noting is Grobilzak the Twisted, a creature that is the remnant of long passed age, when the Void invided Creation.  
+
+There were a few time peroids before history, with order likely being:
 - *when the Void invaded Creation*
+- [Era of Madness](https://anbennar.fandom.com/wiki/Dwarven_Pantheon#Divinities)
 - Era of Forging
 - Age of Sickness
+- Era of War
 - Era of Diminishing
 - Era of Desolation
-- Era of War
 
 Dwarves were created by Halanna from stone to help her with the details of the world. It is belived that this have happened in the **Earthseed**.
-Ancestor Worship dwarves instead states that there, dwarfs just first entered the Serpentspine mountains.  
-*Both Earthseed desctiption and Dagrin discovery saids that they also belive in Halanna Creation*  
-The first dwarf was **Dagrin Everbeard**, who helped Halanna with the curving of the first subterrean chambers.
-He is the leader of the wast clan of dwarfen gods.  
+After the Era of Madness much of her energy was spent and so the dwarves would never rival in stature even the smallest of Giants.
+Life as we know in the Serpentspine Mountains exists thanks to [**Halanna's Breath**](https://anbennar.fandom.com/wiki/Halanna's_Breath#Origin_Theories),
+theorethised to originate from her remains that is said to be burried also in Earthseed.  
 
-He is also worshiped as the first ancestor in Ancestor Worship.
-They state that it was he, who made dwarves the people of stories. Ones about him measuring in the dozens.
+With primodials creating their races, Grobilzak created goblinoids, that plaque Dwarvenkind ever since.  
+
+Many dwarven dieties come from the Era of Forging, that must come after the Era of Madness.
+Era of Forging itself ended with Age of Sickness, in which dwarves lost their immortality,
+from that point belongs only to the domain of Gods.
+
+The first dwarf was **Dagrin Everbeard**, who helped Halanna with the curving of the first subterrean chambers.
+He was known for his endlessly long beard, granted by Halanna, which provided life for all dwarfkind.
+Dagrin made dwarves a people of stories. Ones about hime measure in the dosens.
+He is the leader of the wast clan of dwarven gods.  
 
 Azmirethazin Forgetender is the brother of Dagrin made from different stone. He is the first smith.  
-Anvelind Hearthmeiden is the judge of the gods clan and Dagrin wife.  
+Anvelind Hearthmeiden was made from pure elemental essence. She is the judge of the Gods clan and Dagrin's wife.
 Lady Argezenna is the first creation of Azmirethazin and his wife. She is the first monster slayer.  
 
 Durworazir is the first son of Dagrin and Anvelind. He is the first mason.  
@@ -71,12 +94,14 @@ Her creations were for example living statues that served as a guards.
 They prevented settlement of Setzovar's Children in what will become King's Rock. They wanted to steel the riches of the earth.
 
 Urisazirn Mithrilhand is the first son of Durworazir and the first runesmith.
+He invented the runesmithing to help dwarves with dragons and giants.
 Verdrik Azirka is the second son of Durworazir and patron of enginers, architects and foremen.
 
-Lorgrim Farstrider in one day become divine, heralding the end of the Era of Forging.
-She is the sister of Lorgram and gathers souls of Dwarfenkind. She is worshiped by diplomats.  
-Lorgram is the brother of Lorgrim, he became divine in the same circumstances.
+Lorgrim Farstrider appear from nothing, heralding the end of the Era of Forging.
+She is the sister of Lorgram and gathers souls of Dwarvenkind. She is worshiped by diplomats.  
+Lorgram is the brother of Lorgrim, he appeared in Lorgrim.
 He ensures that souls of the dead get to Dagrin's Halls after death and are judged acordingly.  
+
 Grimthar the Woodcarver was a mortal that become a good friend with Margurz after becoming the master of woodcraft and woodcarving.
 Due to this, he became a God of these crafts thanks to Margurz petition.  
 Auirikus - Hand of Dagrin was a mortal during the later era of Forging.
@@ -86,14 +111,23 @@ He become a God's clan ambasador and negotiated treaties with the Giants, spawn 
 He was crucial at peace negotiations at the end of Giantbreak Wars. He is also worshiped by diplomats.  
 There are two other Gods that came at later times.
 
-## Godswar
+## [Cannorian creation myth](https://anbennar.fandom.com/wiki/Cannorian_Creation_Myth)
+
+Acording to Cannorian creation myth, Halann was created by the **Clarionate**, the trio divine siblings: **Castellos**, **Agrados** and **Yshtralania** and two Primodials **Uelos** and **Halanna**
+that emerged victorious in the Primodial War. In this war trio of siblings, being the last of their kind after even more ancient conflict,
+were called by Hallana to contain her elemental siblings battling for the world. Many creatures, former soldiers of the primordials,
+were granted mercy in exchange of aiding the Clarionate in creating and cultivating new world.
+The most notable and powerful of them all were the **giants** and **genies**.
+
+Other races were created by Gods to help them with the creation of the world. These include **dwarves**, **avariels**, the precursors of **elfs** and **dragons**.
+
+### Godswar
 
 When the creation was done, Castellos had found love with Halanna and Yshtralania had found solace with Uelos.
 In fear of Agrados jealousy, Castellos send him to the void at the very edges of the world to guard against the darkness of the night.
 
 Agrados, tired from exile, soon returns and confesses his love for Halanna, who rejects him.
 Soon Halanna was said to be with child, but quickly became sickly and died, her corpse becoming the true foundation of the world.
-Life as we know in the Serpentspine Mountains exists thanks to [**Halanna's Breath**](https://anbennar.fandom.com/wiki/Halanna's_Breath#Origin_Theories), theorethised to originate from her remains.
 From Hallana womb came the the Spawns of Agrados, the first **gnolls**, **harpies** and all matter of evil things.
 Agrados refused the offer of forgivness from Castellos, and the Godswar began.
 
@@ -102,7 +136,7 @@ Agrados have created many beasts, the greatest of them were **humans**.
 
 Finally, Castellos being victorious, imprisoned losers in The Underword.
 
-## The Inheritance War
+### The Inheritance War
 
 Malliath, the first dragon, saw dragons as the true inheritors of the realm a new war have started.
 
@@ -114,39 +148,53 @@ whereas his two heads would be divided between the Serpentshead and the Dragon C
 
 # Prehistory
 
-## Rule of Dragons
+## [Rule of Dragons](https://anbennar.fandom.com/wiki/Rule_of_Dragons)
 
 From now, dragons ruled Halann. Imprisoning some of the genies. They have also pushed giants to the far north and enslaved elfes.
 Due to this, dwarves were forced to dig deeper and deeper into their mountain homes.  
-Dwarves named their mountain home *Dwarovar* at some point. In literal translation it means "Dwarf Home".
+Dwarves named it *Dwarovar* at some point. In literal translation it means *Dwarf Home*.  
 
-Dwarfen Pantheon faith states that Urisazirn invented the runesmithing to help dwarves with dragons and giants.
-If this is true, it probably have happened in this time peroid.
+It is said that from that point and later era, the underground system of roads and infrastructure that connects the Serpentspine was made.  
+[*Source*](https://anbennar.fandom.com/wiki/Dwarf#Founding_Myth)  
+
+Draconic relics are incredibly rare and hard to come by. So few have ever been found that we currently have no greater understanding of what they are or their nature.
+It is believed many of them were captured by the Precursor Empire and lost during the Day of Ashen Skies.
+Although very valuable, their scarcity and apparent mundane nature makes them unsustainable for continuous study or research.
+[*Source*](https://anbennar.fandom.com/wiki/Ancient_Relics#Draconic)
 
 Roughly around **100 000 BA**, true giants defeated the dragons, nearly wiping them to extinction.
 As most surviving dragons fled to Aelantir, giants divided Halann amongst themselves.
 
-## Rule of Giants
+## [Rule of Giants](https://anbennar.fandom.com/wiki/Rule_of_Giants)
 
-At some point in time, a Fire Giant corpose appeared in the place where **Gor Bûrad** hold will be later constructed.  
-*Source: hold mission tree*
+At some unknown point in time, a Fire Giant corpose appeared in the place where **Gor Bûrad** hold will be later constructed.  
+*Source: Gor Bûrad mission tree  
+It is unknown if this is a known fact in the setting, since finding it requires almost completion of Gor Bûrad's mission tree*
 
 ## Emergence of first holds
 
+The oldest dwarven cronics found date to around 6500 BA. However, there are many events remembered
+today that have happened even before the formation of Aul-Dwarov. Sadly, most of them lacks dating,
+making early dwarven hronology dificult to arrange in time.
+
 ### Hehogrim the Diligent & Hehodovar
 
-In 5th Bloomsdawn, before 27th century BA, a Great dwarven Ancestor, **Hehogrim the Diligent** was born.
+In 5th Bloomsdawn, before 27th century BA, a Great Ancestor, **Hehogrim the Diligent** was born.
 He was a great inventor and architect, most importantly, of holds.
 In 27 019 BA **Hehodovar** was contructed as a hold. It is the first one ever created and named in his honour.
 Hehogrim oversaw its construction, it was said that his personal patron was Verdrik Azirka, who inspired him to build the hold.
+It is thanks to his designs that the dwarves started flourishing in holds all across the Dwarovar, providing safety for all of dwarfkind.  
+
 He was quite insane dwarf, his aptitude of feasting and drinking was almost equally famous.
 His book *The Thirteen Stages of Enlightenment* and *Hehogrim's Bench* story are good examples of it.
 He was a shining example of how a dwarf can drink and still achieve great things.
 In Hehodovar, every year in his birthday, The Thinker's Party was organised.
-There, dwarfen intelligentsia come te celebrate his legacy and discuss new ideas and drink fine beer.  
+There, dwarven intelligentsia come te celebrate his legacy, discuss new ideas and drink fine beer.  
 *Source: His AW event, Hehodovar ideas, wiki and Verdrik Azirka DP discovery event*
 
-Most of today Serpentspine holds were constructed afterwards somewhere in this time peroid, with exception of far east ones.
+Most of today's Serpentspine holds were constructed afterwards somewhere in this time peroid, with exception of far east ones.
+
+## Holds history before Aul-Dwarov
 
 ### [Gor Bûrad](https://anbennar.fandom.com/wiki/Hold_of_Gor_B%C3%BBrad)
 
@@ -160,18 +208,11 @@ allowing for friendly relations to form between both holds.
 
 *A renowned legend describes the longest Borbordûz - Gor Bûrad tradition ever: three nobles fought for a week straight to decide who would rule the hold. The fighters were called Storum the Stern, Adar Moonreacher and Magni the Vindictive. In the end, Magni was the only survivor and took his place as ruler of Gor Bûrad. Contemporaries attributed this to his fine equipment, which had been forged by the famous blacksmith Calin-Thror Flameforge.*
 
-## Holds history before Aul-Dwarov
-
 ### Haraz Orldhûm warfare innovations
 
 With early lords of Haraz Orldhûm struggling against the monsters in the neighbouring caverns, Ghurn,
 one of the first rangers ever recorded, revolutionised firstly Platinum and later all dwarven warfare
 by introducing forward scouts and ambushers to dwarven armies.
-
-### Dwarfen Assembly
-
-Amldihr, literally known as the Gates of the Assembly, was where the first ever council of dwarven kings met to broker peace amongst their holds. This tradition later turned into the Assembly.  
-*and under Aul-Dwarov, the High Assembly, where all the lesser clans and kings of the Dwarovar could petition and discuss notions of rule with the High King.*
 
 ### Far East expansion
 
@@ -181,7 +222,7 @@ No less than five holds were builded in the eastern Serpentspines thanks to maps
 His drive to explore has always inspired dwarvenkind since.  
 *Source: His event in AW*
 
-### [Serpent's Vale irrigation and its creators](https://anbennar.fandom.com/wiki/Serpent%27s_Vale)
+### [Serpent's Vale farming and its creators](https://anbennar.fandom.com/wiki/Serpent%27s_Vale)
 
 Thyrfen Goldenhands was the ancient queen of Amldihr. She was pious and never married.
 It is said that on her orders, Serpent's Vale was transformed to great farmlands,
@@ -200,6 +241,12 @@ The ancient dwarves used the Serpent's Vale for agriculture. With terrace farmin
 they made the region very productive despite its soil not being particularly rich. It was wise for the High King to make his home later here,
 for much of the underground population was dependent on grain and vegetables from the Serpent's Vale.   
 *Source: wiki*
+
+### Dwarven Assembly
+
+Amldihr, literally *Gates of the Assembly*, was where the first ever council of dwarven kings met to broker peace amongst their holds.  
+This tradition later turned into the Assembly, and under Aul-Dwarov, the High Assembly,
+where all the lesser clans and kings of the Dwarovar could petition and discuss notions of rule with the High King.
 
 ### Werdûn Diamondeye ascention
 
@@ -248,11 +295,28 @@ of tactics and warfare. After his passing, the academy was still used and state-
 which further instilled a military culture to the soldiers of the hold, making them perfect candidates for the Amldavhad Guard as well as mercenaries.
 
 ## Aul-Dwarov
+
 https://anbennar.fandom.com/wiki/Pre-Orcish_Dwarovar
 
-18 109 BA
-Creation of Aul-Dwarov as a defensive aliance among others  
-*Source: It's ideas*
+### Formation of Aul-Dwarov
+
+**Udrek the Consolidator** was an ancient king of Amldihr. He had leveraged his predecessor's burgeoning local hegemony over the nearby holds,
+earned via clever use of the Serpent's Vale irrigation system into something more substantial.  
+With the threat of the Frost Giants to the north and west, and the Fire Giants to the east, in **18 109 BA**,
+Udrek gathered several kings of the Northern Serpentspine: Balgrin IV Asra of Ovdal Asra,
+Dagzvult *the Cryptic* of Verkal Kozenad, and Kogrik II Steelhand of Haraz Orldhûm in an effort to secure the safety of the Serpent's Vale,
+and by extension the prosperity of dwarvenkind. Each king swore fealty to Udrek of Amldihr under specific conditions,
+such as stable and cheap access to the sale of Serpent's Vale grains, an obligation to defend each hold as if they were their own,
+and most importantly the predecessor to the **elective position of High King** - Crowned Defender of All Dwarvenkind.
+Udrek itself was seen as the first High King of Amldihr, despite never actually holding the title during his lifetime.
+
+Amldihr was where Udrek the Consolidator managed to confederate the existing holds and form an assembly,
+to prevent the wars between dwarves and to let them grow together as one. With the Amlharaz formed,
+the dwarves of every hold were able to gather together to improve all of the Dwarovar.
+While many resisted the grasp Amldihr had upon the Empire,
+they introduced new legal reforms and fought politically to bring favour
+to their own holds instead of warring upon a unified empire."  
+*Source: Amldihir & Aul-Dwarov ideas*
 
 #### Glasshammer Fair
 
@@ -708,6 +772,12 @@ Castanorian records state that the first major dwarven migration to the fledglin
 Maintaining the inventories of adventurers, soldiers, and builders was a large task for the Empire of Aul-Dwarov, as the need for precise numbers was paramount for success. The Agate Dwarves took pride in their role as the main bookkeepers and organisers of the Dwarovar, assuring equipment contracts were always complete, supplies always ended up in the right hands, and the contents of each adventuring backpack were verified. Many dwarves of other holds would see this as unnecessary, rather relying on their own records, but the Agate Dwarves knew that overconfidence was a slow and insidious killer.
 
 Khugdihr had fallen many times to enemy forces: whether it be in civil war; to Nimrith the Red; or to the Orcs. The position of Khugdihr made it face the threats of the ever growing hostile surface with Giants and many other creatures seeking to destroy the hold. However, as many times as the hold has fallen, it has stubbornly risen back up, stronger than before against the countless threats on both sides of the gates.
+
+However, Halanna was also a part of Cannorian Pantheon before her death.
+Modern historians belive that she was [co-opted by Castanor from the Dwarves](https://anbennar.fandom.com/wiki/Halanna#Interpretations).
+
+Despite being a diety, he is also worshiped as the first ancestor in **Ancestor Worship**.
+They state that it was he, who made dwarves the people of stories. Ones about him measuring in the dozens.
 
 A New Age
 Abandonment of the Dwarven Pantheon
