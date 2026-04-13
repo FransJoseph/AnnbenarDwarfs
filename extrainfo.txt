@@ -47,10 +47,6 @@ Aul-Dwarov
 
 ## Amldihr
 
- I01_ideas:0 "Kronium Ideas"
- I01_ideas_start:0 "Kronium Traditions"
- I01_ideas_bonus:0 "Kronium Ambition"
-
  I01_birthplace_of_the_old_empire:0 "Birthplace of the Old Empire"
  I01_birthplace_of_the_old_empire_desc:0 "Amldihr was where Udrek the Consolidator managed to confederate the existing holds and form an assembly to prevent the wars between dwarves and to let them grow together as one. With the Amlharaz formed, the dwarves of every hold were able to gather together to improve all of the Dwarovar. While many resisted the grasp Amldihr had upon the Empire, they introduced new legal reforms and fought politically to bring favour to their own holds instead of warring upon a unified empire."
  I01_serpents_vale_terraced_farming:0 "Serpent's Vale Terraced Farming"
@@ -64,9 +60,65 @@ Aul-Dwarov
  I01_rule_with_a_kronium_glove:0 "Rule with a Kronium Glove"
  I01_rule_with_a_kronium_glove_desc:0 "A common term amongst the dwarven people, meaning to rule with conscience those who follow you, and to punish with the mightiest blows those who would defy you. It comes from a famous quote from Udrek the Consolidator after uniting the dwarven holds, which was passed down to all High Kings of Aul-Dwarov during their grand coronation."
 
+## Aul-Dwarov
+
+ I24_gems_of_the_dwarovkron_desc:0 "The Dwarovkron is the greatest symbol of Dwarven Unity. It is forged of Kronium, a metal artificially created for the crown,  with the specific purpose of being the heaviest metal in existence to physically drive home the weight of rule.\n\nAdorning it are the seven great gems of the Dwarovkron: the Citrine of Seghdihr, the Diamond of Arg-Ôrdstun, the Jade of Grônstunad, the Sapphire of Dûr-Vazhatun, the Agate of Ovdal Asra, the Amethyst of Hul-az-Krakazol, and the Ruby of Ovdal Vudi -- more commonly known as Rubyhold. While other gems do appear on the crown, collectively they all fail to compare to the majesty of even a single of these brilliant stones. And each single stone pales before the majesty of the entire crown."
+ I24_high_kings_warhost:0 "The High King's Warhosts"
+ I24_high_kings_warhost_desc:0 "Before the fall of Aul-Dwarov, her armies were called to banner, or muster, by writ of the High King and the High King alone. Each hold seated on the Amlharaz was to maintain its own standing force to see to the defence of the holds' territories beyond its fortifications, to patrol the Dwarovrod, and to protect the Empire whenever mustered by the High King. When times called for multiple fronts to be fought, the High King would traditionally delegate portions of the armies to either the King of Mithradhûm, the King of Orlazam-az-dihr, or the General-King of Gor Vazumbrog as needed, their loyalty and commitment to the High King being absolute no matter who wore the Dwarovkron."
+ I24_hearth_and_hold:0 "Hearth and Hold"
+ I24_hearth_and_hold_desc:0 "To build a hold in the Serpentspine requires three necessities in varying degrees. The first is an abundance of resources -- vast quantities of ores and minerals to both support the construction efforts on site, and to export for trade in order to procure any missing materials. Second is a perceived need for an easily defensible home, but with defences well beyond any normal city. The third is time: A proper hold takes decades of planning once the original settlement is constructed. Sewers, ventilation, residential districts, access tunnels for foot and cart traffic, farms, and more. Then, centuries of slowly chiselling away stone, inch by inch, to merely scratch the surface of what one could consider the art of creating a hold. Although many holds were built throughout history, none were more grand than the ones created by a united Aul-Dwarov."
+ I24_integration_of_the_caves_initiative:0 "Integration of the Caves Initiative"
+ I24_integration_of_the_caves_initiative_desc:0 "Though the dwarves of past Aul-Dwarov claimed dominion over the caves of the Serpentspine, in truth that grasp was always tenuous. Though there were great cavern holdings like the Diamond Mines of Arg-Ôrdstun, and the Cobalt Mines of Orlghelovar, no true directed effort was ever made to wrest full control of the many caverns adjoining the Dwarovrod.\n\nThis, as we know today, was a grave mistake: contact between holds could be easily severed, and leaving so much of the Serpentspine outside its rule exacerbated the decline of old Aul-Dwarov. By righting this wrong today, we ensure it can never happen again."
+ I24_the_crafts_of_all_dwarfkind:0 "The Crafts of All Dwarfkind"
+ I24_the_crafts_of_all_dwarfkind_desc:0 "Ancient Aul-Dwarov once created wonders the world had never seen before, and after its fall many thought they would never be seen again, as our people had become prisoners in their own domain, or surface exiles who never knew hearth and hold. But Aul-Dwarov has been reforged, and now we can indeed see those ancient wonders and restore them even beyond their prior glory. From the mighty mithril forges of Mithradhûm, to the great rail yards of Er-Natvir and the mighty cannon foundries of Ovdal Kanzad, we shall see the wonders of those who came before us driven to new heights."
+ I24_many_holds_one_mountain:0 "Many Holds, One Mountain"
+ I24_many_holds_one_mountain_desc:0 "The Role of the High King is, in a way, emblematic of the archetypal dwarf. He must be resolute in decision-making, the firm rock that shelters Aul-Dwarov from the storm that lay beyond his realm. He must be willing to listen to the advice provided by his lesser kings, showing flexibility and understanding, knowing that his rule was determined by those who used to be his peers. He must carry the weight of rule on his shoulders -- with the Dwarovkron a constant reminder. Above all else, he must rule with wisdom -- for when wisdom is ignored, dwarven unity is broken.\n\nThe greatest example of this is the War of the Bloody Gem, when the Ruby Gem was added to the Dwarovkron without consideration of the Amlharaz or compensation for the slighted holds afterwards, plunging Aul-Dwarov into its bloodiest civil war in millennia. Let us ensure that such a perilous mistake is never made again."
+
+I05_ideas:0 "Mithril Ideas"
+ I05_ideas_start:0 "Mithril Traditions"
+ I05_ideas_bonus:0 "Mithril Ambition"
+ I05_vow_of_honesty:0 "Vow of Honesty"
+ I05_vow_of_honesty_desc:0 "Mithradhûm, or Truehold, is well-known for its production of Mithril, or Truemetal. And even further, the Mithril Dwarves who live in the hold are known as Truth Dwarves, as every child swears a lifelong vow to be honest and true to their word upon coming of age.\n\nThe bond among our people is strong, as we are open to each other, and no Mithril Dwarf would betray another. None but the infamous Harrûk Shalesmith, a commander who sold out one of our patrols to Goblins, and for that he was thrown into a volcano, and his name forever barred from being spoken. No Mithril Dwarf betrays another."
+ I05_strongbellow_clan:0 "Strongbellow Clan"
+ I05_strongbellow_clan_desc:0 "Early in our history, Mithradhûm was often beset by merchants who wanted to buy more Mithril than we had, with riots nearly being started many times, until we were saved by Belgar Strongbellow who negotiated for many of the merchants to pay a discounted price immediately, and then guaranteed to receive the Mithril at a later date.\n\nBecause of our reputation for fair deals, these so-called 'early payments' became commonplace, and were often overseen by Belgar, who got a small cut. His newfound wealth then propelled the Strongbellow clan into a prominent merchant family."
+ I05_secret_mithril_alloy:0 "Secret Mithril Alloy"
+ I05_secret_mithril_alloy_desc:0 "Kramdur Goldbeard was famous for pioneering the method which let us combine Mithril with other metals, making an alloy that had almost the exact same weight and durability as pure Mithril. This let us continue mass-producing 'Mithril' while also rationing our vast, but still limited, ore deposits.\n\nTo avoid the obvious backlash that would result if the existence of this alloy was discovered, all the dwarves involved in the alloy's production swore vows of secrecy, which were kept even under duress."
+ I05_high_kings_favorite:0 "High King's Favorite"
+ I05_high_kings_favorite_desc:0 "The High Kings of Aul-Dwarov often favored our hold in disputes with Haraz Orldhûm for our strategic location at the west flank of Amldihr, and because our soldiers formed an elite and devotedly loyal core for his prized Amldavhad Guard. No matter how much the snobby tyrants to our north-west hated us for being the High King's favorite, even they had to defer respect to us for our unbroken loyalty."
+ I05_warchanters_of_mithradhum:0 "The Warchanters of Mithradhum"
+ I05_warchanters_of_mithradhum_desc:0 "Nowhere in the Dwarovar are the ancestors as revered as in Mithradhum. Every Mithril Dwarf is intimately aware of the fact that the Dwarovar sits on the shoulders of our ancestors, a thousand generations remembered by folklorists and passed on in memory to each child.\n\nMithril soldiers are well known for chanting the names of their forerunners as they march and emphasize every strike of hammer or axe with the names of mighty warriors past. This warchant is known to greatly unnerve our foes while inspiring our warriors."
+ I05_famed_mithril_warriors:0 "Famed Mithril Warriors"
+ I05_famed_mithril_warriors_desc:0 "Mithradhûm was famous across Aul-Dwarov for its many skilled soldiers clad in Mithril, as many of our soldiers were in service to far way holds. While this benefited our political position in Aul-Dwarov, the sudden fall of Er-Natvir to the Orcs, and the eventual siege of our Hold, stranded many of our warriors far from home. Even knowing their home was lost, our soldiers performed admirably in the defence of other holds."
+ I05_goblinslayer_academy:0 "Goblinslayer Academy"
+ I05_goblinslayer_academy_desc:0 "One of our greatest ancestors was Thorin Goblinslayer, who was said to embody our namesake metal in strength, endurance, and most importantly, honor. When he passed from this world, his students took his lessons to heart and founded a military academy in his name, and eventually our military culture came to embody Thorin's ideals. This military culture would later produce some of the greatest generals in the War of the Bloody Gem."
+
 
 ## Murri Giantbreaker
 
 Murri was an adventurer and a embodient of saying: *Every dwars is more than their size*.
 Stories about him remain popular amongst the Ancestor Worhip dwarves.  
-*Source: It's AW event. I belive there is more about him*
+*Source: It's AW event. I belive there is more about him (it is)*
+
+# Disclaimers
+
+## Holds Shenetiganns
+
+- Krakdhûmvror started only as a project of defensive citadel, later changed to a hold?
+- Gor Ozumbrog was completed only after the fall of Amldihr
+- Ovdal Asra was never repaired after its fall in western collapse
+- Gor Dûrgheled was left after you know what, its location within West Dwarovar was lost to time
+- Ruby Hold existed back then - War of Bloody Gem. Do they belonged to Aul-Dwarov?
+- Silver hold was completed at a late game date (when the project started?)
+- Verkal Ozovar construction started during the Jade Empire, but was completed only afterwards
+- It is debated if Ânumdihr was actual name of a hold or a dwarven nickname that was given after the fall of the Aul-Dwarov.
+- Grônrod was created after the fall of Amldihr, same for Vûrdriz-Ândriz
+
+## Other
+
+- When Dvarven roads and railways were created?
+- Orcsbreatch was named after you know what, before it wasn't connected to the surface
+- Caves may have looked different back then
+- Aul-Dwarov claimed caves - but controll over them waried from place to place - diamond and cobald mines were controlled well, iron mines for ramsteel may also back then
+- Escanni-Dwarovar tunel was purpously collapsed during the war with Precursors
+- There is an inconsistiency with the date of fall of Ovdal Asra - details in dedicated section
+- Dûr-Vazhatun have had surface colonies
