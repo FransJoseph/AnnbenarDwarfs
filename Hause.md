@@ -222,7 +222,32 @@ No less than five holds were builded in the eastern Serpentspines thanks to maps
 His drive to explore has always inspired dwarvenkind since.  
 *Source: His event in AW*
 
+### [Mithrill & Mithradhûm](https://anbennar.fandom.com/wiki/Hold_of_Mithradh%C3%BBm)
+
+Mithrill is bla bla bla true silver, Truemetal
+
+Mithrill cannons have almost no precedent in history, at least before reclamation.
+It can also be brtittle when forged wrongly.  
+*Source: Mithradhûm cannon mission*  
+
+Dwarves of Mithradhûm or Truehold are known as Truth Dwarves, not only because of the metal nickname.  
+Every child swears a lifelong vow to be honest and true to their word upon coming of age.
+The bond between Mithrill dwarves was strong.
+However at some point in time, Mithril commander, Harrûk Shalesmith sold out one of Mithradhûm's patrols to Goblins.
+With his actions, he was thrown into a volcano, and his name was forever barred from being spoken,
+for *No Mithril Dwarf betrays another*.  
+
+The Goblinslayer academy was founded by the famous retired Mithradhûm general Thorin Goblinslayer, which he used to teach the soldiers of the hold his mastery
+of tactics and warfare. After his passing, the academy was still used and state-sponsored,
+which further instilled a military culture to the soldiers of the hold, making them perfect candidates for the Amldavhad Guard as well as mercenaries. 
+
+Agates of the Khugdir are one of the Dwarovar greatest wanders.  
+*Source: Mithradhûm reclamation mission*  
+
 ### [Serpent's Vale farming and its creators](https://anbennar.fandom.com/wiki/Serpent%27s_Vale)
+
+Serpent's Vale is named after its trencherous and deceptive terrain. Its soil is not particullary rich.  
+*Source: Mithradhûm reclamation mission*
 
 Thyrfen Goldenhands was the ancient queen of Amldihr. She was pious and never married.
 It is said that on her orders, Serpent's Vale was transformed to great farmlands,
@@ -285,15 +310,6 @@ Thankfully, over time his outlandish scientific claims were proven and strange d
 while not always usefull, worked flawlesly. He was instituted as a Great Ancestor long after his death.  
 *Source: His event in AW*
 
-### [Mithradhûm military](https://anbennar.fandom.com/wiki/Hold_of_Mithradh%C3%BBm)
-
-Mithril commander, Harrûk Shalesmith sold out one of Mithradhûm's patrols to Goblins. With his actions,
-he was thrown into a volcano, and his name was forever barred from being spoken, for *No Mithril Dwarf betrays another*.  
-
-The Goblinslayer academy is founded by the famous retired Mithradhûm general Thorin Goblinslayer, which he used to teach the soldiers of the hold his mastery
-of tactics and warfare. After his passing, the academy was still used and state-sponsored,
-which further instilled a military culture to the soldiers of the hold, making them perfect candidates for the Amldavhad Guard as well as mercenaries.
-
 ## Aul-Dwarov
 
 https://anbennar.fandom.com/wiki/Pre-Orcish_Dwarovar
@@ -302,10 +318,13 @@ https://anbennar.fandom.com/wiki/Pre-Orcish_Dwarovar
 
 **Udrek the Consolidator** was an ancient king of Amldihr. He had leveraged his predecessor's burgeoning local hegemony over the nearby holds,
 earned via clever use of the Serpent's Vale irrigation system into something more substantial.  
+
 With the threat of the Frost Giants to the north and west, and the Fire Giants to the east, in **18 109 BA**,
 Udrek gathered several kings of the Northern Serpentspine: Balgrin IV Asra of Ovdal Asra,
 Dagzvult *the Cryptic* of Verkal Kozenad, and Kogrik II Steelhand of Haraz Orldhûm in an effort to secure the safety of the Serpent's Vale,
-and by extension the prosperity of dwarvenkind. Each king swore fealty to Udrek of Amldihr under specific conditions,
+and by extension the prosperity of dwarvenkind.   
+
+Each king swore fealty to Udrek of Amldihr under specific conditions,
 such as stable and cheap access to the sale of Serpent's Vale grains, an obligation to defend each hold as if they were their own,
 and most importantly the predecessor to the **elective position of High King** - Crowned Defender of All Dwarvenkind.
 Udrek itself was seen as the first High King of Amldihr, despite never actually holding the title during his lifetime.
