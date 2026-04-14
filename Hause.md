@@ -224,25 +224,69 @@ His drive to explore has always inspired dwarvenkind since.
 
 ### [Mithrill & Mithradhûm](https://anbennar.fandom.com/wiki/Hold_of_Mithradh%C3%BBm)
 
-Mithrill is bla bla bla true silver, Truemetal
+[Mithrill](https://anbennar.fandom.com/wiki/Metals#Mithril), also known as truesilver or truemetal, was the pinnacle of dwarven metallurgy:
+incredibly light and flexible while retaining the hardness and strength of steel. It is the most valued of all metals.
+However, it is more difficult to produce than more mundane metals, becomes highly vulnerable if forged improperly
+and is exclusively found in the Serpentspine Mountains, which led to the metal's
+supply becoming increasingly limited following the fall of Aul-Dwarov.
+Once it was even belived that Mithril forging was lost with it, but
+surface dwarves were able to still produce very limited amounts of truemetal.
 
-Mithrill cannons have almost no precedent in history, at least before reclamation.
-It can also be brtittle when forged wrongly.  
-*Source: Mithradhûm cannon mission*  
+The hold **Mithradhûm** was located on a large Mithril deposit which allowed the dwarves to make
+large quantities of powerful armor and weapons, which the hold was famous for.
+After the reclamation even cannons were in some places made of it, before that
+however, there were only a few instances in history of them.
+Goblins there made a coinage out of it after reclamation.  
+*Source: Wiki, Mithradhûm mission: Durability Testing, Mithril-Arm Cartel starting event*  
 
-Dwarves of Mithradhûm or Truehold are known as Truth Dwarves, not only because of the metal nickname.  
-Every child swears a lifelong vow to be honest and true to their word upon coming of age.
+Early in its history, Mithradhûm faced repeated unrest from merchants demanding more Mithril than was available,
+until Belgar Strongbellow resolved tensions by arranging discounted upfront payments with later delivery guarantees.
+Thanks to the hold’s reputation for fair deals, these “early payments” became common, often managed by Belgar for a small cut,
+which elevated the Strongbellow clan into a prominent merchant family.  
+
+Grûn Strongbellow was from clan bearing the same name, there are however no evidence of his lineage.  
+*My claim, needs to be checked carefully*  
+
+Kramdur Goldbeard pioneered a method to combine Mithril with other metals, creating an alloy nearly identical in weight and durability to pure Mithril,
+allowing continued mass production while rationing limited ore reserves. To avoid backlash if this secret were discovered,
+all dwarves involved in its production swore binding vows of secrecy, which they upheld even under duress.  
+
+Dwarves of Mithradhûm or Truehold were known as Truth Dwarves.
+Every child swears a lifelong vow to be honest and true to their word upon coming of age that was upheld very seriously.
 The bond between Mithrill dwarves was strong.
 However at some point in time, Mithril commander, Harrûk Shalesmith sold out one of Mithradhûm's patrols to Goblins.
 With his actions, he was thrown into a volcano, and his name was forever barred from being spoken,
 for *No Mithril Dwarf betrays another*.  
 
-The Goblinslayer academy was founded by the famous retired Mithradhûm general Thorin Goblinslayer, which he used to teach the soldiers of the hold his mastery
-of tactics and warfare. After his passing, the academy was still used and state-sponsored,
-which further instilled a military culture to the soldiers of the hold, making them perfect candidates for the Amldavhad Guard as well as mercenaries. 
+The Goblinslayer academy was where the famous retired Mithradhûm general Thorin Goblinslayer,
+teached the soldiers of the hold his mastery of tactics and warfare. After his passing,
+the academy was still used and state-sponsored, which further instilled a military culture
+to the soldiers of the hold, making them perfect candidates for the Amldavhad Guard as well as mercenaries.
+This culture, embodying Thorin's ideals would later produce some of the greatest generals in the War of the Bloody Gem.
+There are however no concensus if he actually founded it, or it was his studens after his passing.
+*Wiki states it was founded by him, ideas talk aobut his students*  
+
+Mithradhûm have a great rivarly with Haraz Orldhûm, their grudges were legendary. High Kings of Aul-Dwarov often favored
+them in disputes because of their strategic location and elite and devoted loyal soldiers in the Amldavhad Guard.
+Haraz Orldhûm of course hated this favourity, but even they respected their unbroken loyalty.  
+
+Mithradhûm was famous across Aul-Dwarov for its many skilled soldiers clad in Mithril,
+as many of our soldiers were in service to far way holds.
+While this benefited our political position in Aul-Dwarov, the sudden fall of Er-Natvir to the Orcs,
+and the eventual siege of our Hold, stranded many of our warriors far from home.
+Even knowing their home was lost, our soldiers performed admirably in the defence of other holds.
+
+*The Warchanters of Mithradhum - Nowhere in the Dwarovar are the ancestors as revered as in Mithradhum.*
+*Every Mithril Dwarf is intimately aware of the fact that the Dwarovar sits on the shoulders of our ancestors,*
+*a thousand generations remembered by folklorists and passed on in memory to each child.\n\nMithril soldiers*
+*are well known for chanting the names of their forerunners as they march and emphasize every strike of hammer*
+*or axe with the names of mighty warriors past. This warchant is known to greatly unnerve our foes while inspiring our warriors.*  
+*Potentially non-canon, canon in timeline where it was reclaimed by dwarves*  
+
+*Source: Mithradhûm ideas, missions & wiki*   
 
 Agates of the Khugdir are one of the Dwarovar greatest wanders.  
-*Source: Mithradhûm reclamation mission*  
+*Source: Mithradhûm Khugdir reclamation mission*  
 
 ### [Serpent's Vale farming and its creators](https://anbennar.fandom.com/wiki/Serpent%27s_Vale)
 

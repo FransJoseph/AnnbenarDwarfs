@@ -92,6 +92,7 @@ I05_ideas:0 "Mithril Ideas"
  I05_goblinslayer_academy:0 "Goblinslayer Academy"
  I05_goblinslayer_academy_desc:0 "One of our greatest ancestors was Thorin Goblinslayer, who was said to embody our namesake metal in strength, endurance, and most importantly, honor. When he passed from this world, his students took his lessons to heart and founded a military academy in his name, and eventually our military culture came to embody Thorin's ideals. This military culture would later produce some of the greatest generals in the War of the Bloody Gem."
 
+https://anbennar.fandom.com/wiki/Mithradh%C3%BBm_(city)
 
 ## Murri Giantbreaker
 
