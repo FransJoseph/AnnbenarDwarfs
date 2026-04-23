@@ -17,10 +17,12 @@ or those that have a good evidence and likeness to happen.
 
 Dwarves are a short and sturdy race known for their great beards, stubbornness and skill in smithing.
 The race originates from the underground holds beneath the Serpentspine Mountains,
-but have since made a home in the surface across the world, due to the fall of their civilization
-which started long before humanity built their first cities.
+but have since made a home in the surface across the world due to the fall of
+**Aul-Dwarov**, their ancient empire, which started long before humanity built their first cities.
 
-**Dwarven Pantheon** is the ancient dwarven religion. Its a belief in the deities of the pantheon as well as the Primordials.
+**Dwarven Pantheon** is the ancient dwarven religion. Its a belief in the deities of the pantheon as well as the Primordials.  
+Its followers are sometimes called *Pantheonists*.  
+*Source: Azirnuk disaster*
 Details of it was lost after the fall of dwarven civilization and worship deceased in the Serpentspines.
 After the reclamation, worship of forgotten dieties was reinstated.
 One such primodial in it was Halanna, now likely deceased.
@@ -53,7 +55,7 @@ she is described as the Earth Mother, Maker of Dwarves, Shaper of Stone.
 Worth noting is Grobilzak the Twisted, a creature that is the remnant of long passed age, when the Void invided Creation.  
 
 There were a few time peroids before history, with order likely being:
-- *when the Void invaded Creation*
+- *When the Void invaded Creation*
 - [Era of Madness](https://anbennar.fandom.com/wiki/Dwarven_Pantheon#Divinities)
 - Era of Forging
 - Age of Sickness
@@ -70,11 +72,11 @@ With primodials creating their races, Grobilzak created goblinoids, that plaque 
 
 Many dwarven dieties come from the Era of Forging, that must come after the Era of Madness.
 Era of Forging itself ended with Age of Sickness, in which dwarves lost their immortality,
-from that point belongs only to the domain of Gods.
+that from that point belongs only to the domain of Gods.
 
 The first dwarf was **Dagrin Everbeard**, who helped Halanna with the curving of the first subterrean chambers.
 He was known for his endlessly long beard, granted by Halanna, which provided life for all dwarfkind.
-Dagrin made dwarves a people of stories. Ones about hime measure in the dosens.
+Dagrin made dwarves a people of stories. Ones about him measure in the dosens.
 He is the leader of the wast clan of dwarven gods.  
 
 Azmirethazin Forgetender is the brother of Dagrin made from different stone. He is the first smith.  
@@ -119,7 +121,7 @@ were called by Hallana to contain her elemental siblings battling for the world.
 were granted mercy in exchange of aiding the Clarionate in creating and cultivating new world.
 The most notable and powerful of them all were the **giants** and **genies**.
 
-Other races were created by Gods to help them with the creation of the world. These include **dwarves**, **avariels**, the precursors of **elfs** and **dragons**.
+Other races were created by Gods to help them with the creation of the world. These include **dwarves**, **avariels** - precursors of **elfs** and **dragons**.
 
 ### Godswar
 
@@ -192,7 +194,28 @@ In Hehodovar, every year in his birthday, The Thinker's Party was organised.
 There, dwarven intelligentsia come te celebrate his legacy, discuss new ideas and drink fine beer.  
 *Source: His AW event, Hehodovar ideas, wiki and Verdrik Azirka DP discovery event*
 
+### How and where holds were builded
+
+*How they build holds, how much it takes, where they do that, as forts and gates, at veins like Verkal Gulan, Mithradhûm, Arg-Odstûn*
+*Descriptions of holds with that things^*
+
 Most of today's Serpentspine holds were constructed afterwards somewhere in this time peroid, with exception of far east ones.
+
+To build a hold requires three necessities in varying degrees: 
+- abundance of resources to both support the construction efforts on site, and to export for trade in order to procure any missing materials
+- perceived need for an easily defensible home, but with defences well beyond any normal city
+- time - a proper hold takes decades of planning once the original settlement is constructed
+
+Construction also include sewers, ventilation, residential districts, access tunnels for foot and cart traffic, farms, and more.  
+Then, centuries of slowly chiselling away stone, inch by inch, to merely scratch the surface of what one could consider the art of creating a hold.  
+
+Although many holds were built throughout history, none were more grand than the ones created by a united Aul-Dwarov.  
+*Source: Aul-Dwarov ideas*
+
+Good examples of such holds are:  
+- Hehodovar (safe home)
+- Verkal Skomdihr (great gate against the Deepwoods)
+- Verkal Gulan, Mithradhûm & Arg-Odstûn (lying on wast resources)  
 
 ## Holds history before Aul-Dwarov
 
@@ -221,6 +244,10 @@ Urist have discovered the entryway towards eastern Tree of Stone. Later in his l
 No less than five holds were builded in the eastern Serpentspines thanks to maps made by him.
 His drive to explore has always inspired dwarvenkind since.  
 *Source: His event in AW*
+
+### Ramsteel & Orlazam-az-dihr
+
+Before Mithrill and other wonder metals there were an age of Ramsteel...
 
 ### [Mithrill & Mithradhûm](https://anbennar.fandom.com/wiki/Hold_of_Mithradh%C3%BBm)
 
@@ -943,3 +970,5 @@ This, unfortunately, caused a cave collapse that buried Ovdal Asra completely, w
 Miraculously, Gerin managed to escape the cave collapse afterwards, venturing further into the Dwarovar.
 
 Using the gem, Fognir became known as Fognir "the Resurgent" and united many dwarven families and cartels under the Asra Bank.
+
+Siegebreaker is key in breaching Khughdihr
