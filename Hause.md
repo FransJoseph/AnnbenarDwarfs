@@ -317,12 +317,12 @@ Agates of the Khugdir are one of the Dwarovar greatest wanders.
 
 ### [Serpent's Vale farming and its creators](https://anbennar.fandom.com/wiki/Serpent%27s_Vale)
 
-Serpent's Vale is named after its trencherous and deceptive terrain. Its soil is not particullary rich.  
+Serpent's Vale is named after its trencherous and deceptive terrain.  
 *Source: Mithradhûm reclamation mission*
 
 Thyrfen Goldenhands was the ancient queen of Amldihr. She was pious and never married.
-It is said that on her orders, Serpent's Vale was transformed to great farmlands,
-albeit without irigation as we know today. In the future it will be crucial in the formation of Aul-Dwarov.
+It is said that on her orders, Serpent's Vale was transformed to great farmlands.
+In the future it will be crucial in the formation of Aul-Dwarov.
 It is said that Margurz took her as his wife, whisking her away in front of her court.
 From that point, she is worshiped as a Goddes in the pantheon.  
 *Source: Her rediscovery event*
@@ -333,10 +333,13 @@ She heralded in an era of prosperity that Aul-Dwarow was yet to know.
 *Did she lived in Aul-Dwarov or before it?*
 *Source: Her event in AW*
 
-The ancient dwarves used the Serpent's Vale for agriculture. With terrace farming and irrigation from the mountain rivers,
-they made the region very productive despite its soil not being particularly rich. It was wise for the High King to make his home later here,
-for much of the underground population was dependent on grain and vegetables from the Serpent's Vale.   
-*Source: wiki*
+At its height, Serpent's Vale agriculture consisted of terrace grain and vegetables farming with irrigation from the mountain rivers.
+Region was very productive despite its soil not being particularly rich.
+*It was wise for the High King to make his home later here for much of the underground population was dependent on from the Serpent's Vale* 
+*Source: wiki*  
+
+It is said that much of Amldihr's strength was drawn not from its diplomacy but from its role as the granary of the Dwarovar.
+All along the Serpent's Vale are carved terraced farms capable of growing and sustaining all manners of foods - which in the past helped grow an empire. Although the holds were able to sustain themselves, the food from the Serpent's Vale is what allowed them to grow and prosper.
 
 ### Dwarven Assembly
 
@@ -350,7 +353,7 @@ where all the lesser clans and kings of the Dwarovar could petition and discuss 
 Werdûn Diamondeye was a mortal from ancient Ovdal Lodhum. He was challenged to cut a gemstone that would captivate Gods.
 After long journey to the Tree of Stone he succeded, and when his peers declared that it is godworthy, he vanished.
 He have become a God and married with Derzobrazan. He is regarded as a progenitor of gem-swapping between lovers.  
-*Source: His rediscovery event*
+*Source: His rediscovery event*  
 
 ### [Formation of Segbandal](https://anbennar.fandom.com/wiki/Segbandal)
 
@@ -407,6 +410,14 @@ While many resisted the grasp Amldihr had upon the Empire,
 they introduced new legal reforms and fought politically to bring favour
 to their own holds instead of warring upon a unified empire."  
 *Source: Amldihir & Aul-Dwarov ideas*
+
+The Paper clans were often a shunned type of Old Clan, lacking artisan talent and strong warriors prevalent in other holds, the paper clans still rose to prominence in their roles as pencil-pushers, administrators and bureaucrats that helped Aul-Dwarov function efficiently
+
+The Amldavhad, also known as the Shields of the Assembly, were an elite guard consisting of the 'kazalûg' which meant 'clanless ones'. This ensured that the guards responsible for the defence of the assembly were not beholden to clan allegiances and were impartial to the assembly's plots and affairs
+I01_illustrious_ancestors:0 "Illustrious Ancestors"
+I01_illustrious_ancestors_desc:0 "The reverence of the ancestors is very prominent within Amldihr with the prevalence of statues of the High Kings and many other prominent ancestors especially in the Hall of Ancestors. With the rulership of such great dwarves from the hold, the expectations for their descendants were very high. The need for young dwarves to prove themselves led them to feverishly pursue their own greatness. Inevitably many would fail due both to the difficulty of their goals and to the implacable commitment required to achieve those goals."
+I01_rule_with_a_kronium_glove:0 "Rule with a Kronium Glove"
+I01_rule_with_a_kronium_glove_desc:0 "A common term amongst the dwarven people, meaning to rule with conscience those who follow you, and to punish with the mightiest blows those who would defy you. It comes from a famous quote from Udrek the Consolidator after uniting the dwarven holds, which was passed down to all High Kings of Aul-Dwarov during their grand coronation."
 
 #### Glasshammer Fair
 

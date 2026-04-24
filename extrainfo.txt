@@ -31,10 +31,6 @@ Greentide
 
 ## Haraz Orldhûm
 
-I08_ideas:0 "Platinum Ideas"
- I08_ideas_start:0 "Platinum Traditions"
- I08_ideas_bonus:0 "Platinum Ambition"
-Aul-Dwarov
  I08_reign_of_the_highlord:0 "Reign of the Highlord"
  I08_reign_of_the_highlord_desc:0 "The Highlord of Haraz Orldhûm was regarded by many as the first among equals of the kings of the Dwarovar. It is said that their eminence, grace and power often rivalled that of the High King itself - it is no surprise indeed, that the High Kings of Aul-Dwarov often came from the clans of Haraz Orldhûm."
  I08_platinum_jewellers:0 "Platinum Jewellers"
@@ -74,25 +70,29 @@ Aul-Dwarov
  I24_many_holds_one_mountain:0 "Many Holds, One Mountain"
  I24_many_holds_one_mountain_desc:0 "The Role of the High King is, in a way, emblematic of the archetypal dwarf. He must be resolute in decision-making, the firm rock that shelters Aul-Dwarov from the storm that lay beyond his realm. He must be willing to listen to the advice provided by his lesser kings, showing flexibility and understanding, knowing that his rule was determined by those who used to be his peers. He must carry the weight of rule on his shoulders -- with the Dwarovkron a constant reminder. Above all else, he must rule with wisdom -- for when wisdom is ignored, dwarven unity is broken.\n\nThe greatest example of this is the War of the Bloody Gem, when the Ruby Gem was added to the Dwarovkron without consideration of the Amlharaz or compensation for the slighted holds afterwards, plunging Aul-Dwarov into its bloodiest civil war in millennia. Let us ensure that such a perilous mistake is never made again."
 
-I05_ideas:0 "Mithril Ideas"
- I05_ideas_start:0 "Mithril Traditions"
- I05_ideas_bonus:0 "Mithril Ambition"
- I05_vow_of_honesty:0 "Vow of Honesty"
- I05_vow_of_honesty_desc:0 "Mithradhûm, or Truehold, is well-known for its production of Mithril, or Truemetal. And even further, the Mithril Dwarves who live in the hold are known as Truth Dwarves, as every child swears a lifelong vow to be honest and true to their word upon coming of age.\n\nThe bond among our people is strong, as we are open to each other, and no Mithril Dwarf would betray another. None but the infamous Harrûk Shalesmith, a commander who sold out one of our patrols to Goblins, and for that he was thrown into a volcano, and his name forever barred from being spoken. No Mithril Dwarf betrays another."
- I05_strongbellow_clan:0 "Strongbellow Clan"
- I05_strongbellow_clan_desc:0 "Early in our history, Mithradhûm was often beset by merchants who wanted to buy more Mithril than we had, with riots nearly being started many times, until we were saved by Belgar Strongbellow who negotiated for many of the merchants to pay a discounted price immediately, and then guaranteed to receive the Mithril at a later date.\n\nBecause of our reputation for fair deals, these so-called 'early payments' became commonplace, and were often overseen by Belgar, who got a small cut. His newfound wealth then propelled the Strongbellow clan into a prominent merchant family."
- I05_secret_mithril_alloy:0 "Secret Mithril Alloy"
- I05_secret_mithril_alloy_desc:0 "Kramdur Goldbeard was famous for pioneering the method which let us combine Mithril with other metals, making an alloy that had almost the exact same weight and durability as pure Mithril. This let us continue mass-producing 'Mithril' while also rationing our vast, but still limited, ore deposits.\n\nTo avoid the obvious backlash that would result if the existence of this alloy was discovered, all the dwarves involved in the alloy's production swore vows of secrecy, which were kept even under duress."
  I05_high_kings_favorite:0 "High King's Favorite"
  I05_high_kings_favorite_desc:0 "The High Kings of Aul-Dwarov often favored our hold in disputes with Haraz Orldhûm for our strategic location at the west flank of Amldihr, and because our soldiers formed an elite and devotedly loyal core for his prized Amldavhad Guard. No matter how much the snobby tyrants to our north-west hated us for being the High King's favorite, even they had to defer respect to us for our unbroken loyalty."
  I05_warchanters_of_mithradhum:0 "The Warchanters of Mithradhum"
  I05_warchanters_of_mithradhum_desc:0 "Nowhere in the Dwarovar are the ancestors as revered as in Mithradhum. Every Mithril Dwarf is intimately aware of the fact that the Dwarovar sits on the shoulders of our ancestors, a thousand generations remembered by folklorists and passed on in memory to each child.\n\nMithril soldiers are well known for chanting the names of their forerunners as they march and emphasize every strike of hammer or axe with the names of mighty warriors past. This warchant is known to greatly unnerve our foes while inspiring our warriors."
  I05_famed_mithril_warriors:0 "Famed Mithril Warriors"
  I05_famed_mithril_warriors_desc:0 "Mithradhûm was famous across Aul-Dwarov for its many skilled soldiers clad in Mithril, as many of our soldiers were in service to far way holds. While this benefited our political position in Aul-Dwarov, the sudden fall of Er-Natvir to the Orcs, and the eventual siege of our Hold, stranded many of our warriors far from home. Even knowing their home was lost, our soldiers performed admirably in the defence of other holds."
- I05_goblinslayer_academy:0 "Goblinslayer Academy"
- I05_goblinslayer_academy_desc:0 "One of our greatest ancestors was Thorin Goblinslayer, who was said to embody our namesake metal in strength, endurance, and most importantly, honor. When he passed from this world, his students took his lessons to heart and founded a military academy in his name, and eventually our military culture came to embody Thorin's ideals. This military culture would later produce some of the greatest generals in the War of the Bloody Gem."
-
+ 
 https://anbennar.fandom.com/wiki/Mithradh%C3%BBm_(city)
+
+I09_the_grand_scheme:0 "The Grand Scheme"
+I09_the_grand_scheme_desc:0 "The Opal Dwarves are a people of fate and believe in a concept called 'The Grand Scheme', where everything that happens is all part of a worldly plan that is greater than any of us. Many believe that it is impossible to change the fate of their futures. Some feel a sense of dread as they believe death lurks in every corner, while others find peace, believing that their fate is beyond their control."
+I09_ladies_of_the_opal_calling:0 "Ladies of the Opal Calling"
+I09_ladies_of_the_opal_calling_desc:0 "The term 'Ladies of the Opal Calling' still exists to this day amongst the dwarven people, and refer to Verkal Kozenad's many skilled and notorious brothels where many dignitaries have revealed their state secrets. They would lull many high ranking officials in to find out about the new proceedings all across the Dwarovar. The Ladies were so skilled that these officials were often ignorant of their own revelations."
+I09_bad_luck:0 "Bad Luck!"
+I09_bad_luck_desc:0 "It is said that the Opal have notoriously bad luck. Whether this is superstition regarding their opal or holds a pearl of truth, it seems that in the history of Verkal Kozenad any plot within the state comes out prematurely. It was said that Morzad Ringbeard, an aspiring thief planned a heist to rob the Aegis of Arg-Ôrdstun before it was added to the Dwarovkron. The Aegis was kept in a vault within its hold, guarded by one hundred of the greatest Diamond Dwarf soldiers.\n\nHowever, Morzad had found a way in using a tunnel that had not been collapsed after the building of the vault. Surprised, he and his men entered the tunnel to find a way into the vault when he noticed that many supports had been removed from the tunnel. Fear overcame him and as he shuffled around, he kicked some dust in the air and let out a sneeze, which echoed out in the tunnel which triggered the last support to collapse, burying the thieves under a vault which in reality was just a decoy."
+I09_opal_railway_robbers:0 "Opal Railway Robbers"
+I09_opal_railway_robbers_desc:0 "The proximity to Er-Natvir, where the Dwarovar Railway converges, allowed many opal dwarves to live a life of banditry amongst the rail-lines of the Dwarovar. The most famous of these Opal Bandits was Bozan Kezdori who stole a train full of gold tithe from Verkal Gulan, abandoned it, and nearly crashed the economy due to hyperinflation."
+I09_spymasters_of_aul_dwarov:0 "Spymasters of Aul-Dwarov"
+I09_spymasters_of_aul_dwarov_desc:0 "Despite their perceived bad luck, many Opal Dwarves came to hold positions of intrigue and skullduggery in the days of Aul-Dwarov. Some say it was due to an inherent quality to do evil possessed by, but others just say coincidence."
+I09_iridescent_lawmaking:0 "Iridescent Lawmaking"
+I09_iridescent_lawmaking_desc:0 "Like the gem on their flag Verkal Kozenad was extremely flexible and laissez-faire with their laws and policies, much to the jealousy of their neighbouring holds. However, this laissez-faire approach was only a veil meant to show the Opal Dwarves as cooperative and civilized compared to other dwarves. In reality, the officials of Verkal Kozenad just never fully enforced the new laws nor followed them themselves, which entrenched corruption within the ruling class for generations."
+I09_shifting_loyalties:0 "Shifting Loyalties"
+I09_shifting_loyalties_desc:0 "The Opal Dwarves were not known for their loyalty, and were often being bribed for support by the clans of other holds during Amlharaz debates or clan feuds. This made them untrusted by many but also useful accomplices in the passing of vital, dead-locked reforms. But the Opal Dwarves knew their value and would only accept the most competitive price available."
 
 ## Murri Giantbreaker
 
